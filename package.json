@@ -1,0 +1,29 @@
+{
+  "name": "pms-backend-30.03-mvc",
+  "version": "1.0.0",
+  "description": "projeto para aprender API com mvc",
+  "keywords": [
+    "mvc"
+  ],
+  "homepage": "https://github.com/pmspietro28/PMS-BACKEND-30.03-MVC#readme",
+  "bugs": {
+    "url": "https://github.com/pmspietro28/PMS-BACKEND-30.03-MVC/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmspietro28/PMS-BACKEND-30.03-MVC.git"
+  },
+  "license": "ISC",
+  "author": "pmspietro28",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "3.1.14"
+  }
+}

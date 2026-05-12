@@ -9,4 +9,6 @@ const listaUsuarios = [
         }, 
     ]
 
-    module.exports = listaUsuarios                                                                                                   
+    module.exports = listaUsuarios
+
+    
